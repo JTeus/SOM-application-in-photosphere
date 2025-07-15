@@ -1,1 +1,1 @@
-# SOM-applicatio-in-photosphere
+# SOM application in photosphere
