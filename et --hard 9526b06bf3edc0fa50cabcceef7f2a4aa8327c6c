@@ -1,0 +1,115 @@
+[33mcommit d754fe84962daebe7f326e6bc824fd9fe78bccf3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JTeus <jmatheus.projetoiluminar@gmail.com>
+Date:   Thu Jul 17 11:32:57 2025 -0300
+
+    Remove arquivos .fits da pasta All_Events
+
+[33mcommit 7e042a747fe2df8c1c8be10d5a51102197a57957[m
+Merge: 3642b14 9526b06
+Author: JTeus <jmatheus.projetoiluminar@gmail.com>
+Date:   Thu Jul 17 10:23:26 2025 -0300
+
+    Merge branch 'main' of
+    https://github.com/JTeus/SOM-application-in-photosphere
+
+[33mcommit 3642b14a87f361eb98c79a78540e7249dc5fdf62[m
+Author: JTeus <jmatheus.projetoiluminar@gmail.com>
+Date:   Thu Jul 17 10:16:26 2025 -0300
+
+    All events
+
+[33mcommit 9526b06bf3edc0fa50cabcceef7f2a4aa8327c6c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Thu Jul 17 10:12:11 2025 -0300
+
+    Update README.md
+
+[33mcommit c41357efdd853d51d38f74bc2dba4c6b179b468c[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Thu Jul 17 09:17:02 2025 -0300
+
+    Update README.md
+
+[33mcommit 0d7e6aec3164039bc8c2544b6848dad665862daa[m
+Author: JTeus <jmatheus.projetoiluminar@gmail.com>
+Date:   Wed Jul 16 14:22:17 2025 -0300
+
+    Add All events
+
+[33mcommit 522ed5b1006a7241bb939fa77399238e5a0321ea[m
+Author: JTeus <jmatheus.projetoiluminar@gmail.com>
+Date:   Tue Jul 15 19:49:39 2025 -0300
+
+    Adiciona pasta com 751 arquivos do projeto
+
+[33mcommit f9eb5be3c02f6ab929eb8f48383b5a6bc3610120[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:32:13 2025 -0300
+
+    Add files via upload
+
+[33mcommit 43e3d1c7cad5322e78094d69ba5a3a21eaee42b2[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:31:14 2025 -0300
+
+    Rename Combine_data_fits_hinode.ipynb to Data_preparation/Combine_data_fits_hinode.ipynb
+
+[33mcommit bdae1d56103d8b15affeab025ea0528acc1c57f9[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:30:33 2025 -0300
+
+    Add files via upload
+
+[33mcommit adf471539edd1fad4b930a117306275301c55849[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:29:46 2025 -0300
+
+    Delete Data preparation/Combine_data_fits_hinode.ipynb
+
+[33mcommit 916afeccde2b45902613c14a1e67de0dadb26698[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:29:15 2025 -0300
+
+    Rename Combine_data_fits_hinode.ipynb to Data preparation/Combine_data_fits_hinode.ipynb
+
+[33mcommit 64960bbcdde94720ad1dd4e7828e4fbccdb47850[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:24:33 2025 -0300
+
+    Add files via upload
+
+[33mcommit 24bbe966e03fda0d9e560155a9fbb6e29ff575ac[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:24:08 2025 -0300
+
+    Delete Combine_data_fits_hinode.ipynb
+
+[33mcommit 63ab03f13fff32903c293f5202364f5ba960000c[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 19:22:12 2025 -0300
+
+    Add files via upload
+
+[33mcommit 86676b9eb1b399e888c45d7c784da6915fcb774c[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 18:21:08 2025 -0300
+
+    Update README.md
+
+[33mcommit a1c9958bf5f80e3420ea5cfc989b4c6933c6c821[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 14:51:13 2025 -0300
+
+    Update README.md
+
+[33mcommit 3b1db40f278d0a3b253174b38e4a0d3a0c5743f0[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 14:46:22 2025 -0300
+
+    Update README.md
+
+[33mcommit 647e520343d83e3a864f9919af35dc8636bbb455[m
+Author: JTeus <120787598+JTeus@users.noreply.github.com>
+Date:   Tue Jul 15 14:45:51 2025 -0300
+
+    Initial commit
