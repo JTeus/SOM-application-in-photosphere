@@ -9,6 +9,10 @@ The objective of this project is to apply kohonen maps (popularly known as self-
 ### - Training the neural network (SOM).
 ### - Application of the neural network (SOM).
 
+## Download data
+- The High Altitude Observatory (HAO) of the National Center for Atmospheric research (NCAR).
+
+  https://csac.hao.ucar.edu/sp_data.php
 ## How to use
 
 ## Dependencies and Libs
