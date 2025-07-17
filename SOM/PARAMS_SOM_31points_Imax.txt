@@ -1,0 +1,1 @@
+{'shape': (5, 5, 124), 'sigma': 2, 'learning_rate': 1.5, 'topology': 'hexagonal', 'neighborhood_function': 'gaussian'}
