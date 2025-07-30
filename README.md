@@ -1,4 +1,5 @@
 # SOM application in photosphere
+![Montagem_SOM](https://github.com/user-attachments/assets/84215eb3-c3e6-4854-a75a-87d1debace4f)
 
 ## Project description
 The objective of this project is to apply kohonen maps (popularly known as self-organizing maps - SOM) for unsupervised classification of photosphere spectropolarization data obtained by SOT-SP of the HINODE mission.
